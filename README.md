@@ -13,7 +13,8 @@ A granular, day-by-day learning roadmap to complete the **Open Digital Architect
 
 ### 🟩 Day 1: Introduction to ODF & Transformation Drivers
 * **Time Commitment:** 1 Hour
-* **Course Progress:** * [ ] Complete *Pre-Course Experience Survey*
+* **Course Progress:**
+  * [ ] Complete *Pre-Course Experience Survey*
   * [ ] Download *Student materials - download to print*
   * [ ] Complete *Module 1: Open Digital Framework (ODF) Awareness*
 * **Deep Dive Focus:** * Understand the shift from monolithic, vendor-locked OSS/BSS stacks to an agile, decoupled platform.
